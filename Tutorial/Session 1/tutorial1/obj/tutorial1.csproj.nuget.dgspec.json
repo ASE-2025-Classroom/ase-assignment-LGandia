@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj",
         "projectName": "tutorial1",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\tutorial1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\source\\repos\\ase-assignment-LGandia\\Tutorial\\Session 1\\tutorial1\\obj\\",
         "projectStyle": "PackageReference",
